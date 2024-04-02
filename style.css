@@ -136,6 +136,8 @@
 
    .content img {
     border-radius: 100%;
+    width: 90%;
+    height: 90%;
    }
 
    .content h1 {
